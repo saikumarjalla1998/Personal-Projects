@@ -1,5 +1,5 @@
 import mysql.connector
-
+#Checking for 2nd commit
 # Connect to MySQL
 conn = mysql.connector.connect(
     host="127.0.0.1",    # MySQL host (change if necessary)
